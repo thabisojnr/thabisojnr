@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/thabisojnr/thabisojnr/blob/main/THABISO_Python_Developer.png" alt="THABISO Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Thabiso Ndlovu</h1>
 <h3 align="center">Python Developer | Future Software Engineer | Self-Taught & Building in Public</h3>
 
